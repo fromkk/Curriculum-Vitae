@@ -56,7 +56,7 @@
 - [EmojiSwift](https://github.com/fromkk/EmojiSwift)
   - Github風の絵文字変換ライブラリ
 - [HashKit](https://github.com/fromkk/HashKit)
-  - `String` や `Data` 型をmd5やsha1などに簡単にハッシュ化出来るライブラリ
+  - `String` や `Data` 型をmd5やsha1などに簡単にハッシュ化出来るライブラリ
 - [Utsname](https://github.com/fromkk/Utsname)
   - 端末情報を簡単に取得出来るライブラリ
 - [SlackFeedback](https://github.com/fromkk/SlackFeedback)
