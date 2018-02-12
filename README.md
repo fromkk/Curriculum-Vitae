@@ -54,7 +54,7 @@
   - Swift製の複数階層でもURLのクエリーストリングが生成出来るライブラリ
   - [紹介ブログ](http://techblog.timers-inc.com/entry/2017/08/03/095237)
 - [EmojiSwift](https://github.com/fromkk/EmojiSwift)
-  - Github風の絵文字変換ライブラリ
+  - Github風の絵文字変換ライブラリ
 - [HashKit](https://github.com/fromkk/HashKit)
   - `String` や `Data` 型をmd5やsha1などに簡単にハッシュ化出来るライブラリ
 - [Utsname](https://github.com/fromkk/Utsname)
@@ -69,7 +69,7 @@
 ## 強み
 
 - プロトタイプファースト
-  - 仕様がはっきりしてないもの、実現可能か不明なものはとりあえず作ってみる精神
+  - 仕様がはっきりしてないもの、実現可能か不明なものはとりあえず作ってみる精神
 - 開発速度
   - なるべくスプリントから大きな遅延は無い様に
 - 品質
@@ -128,11 +128,11 @@
 ## 受賞歴
 
 - 株式会社ATGS MVP(2回)
-- 株式会社Timers 2017年度下期 MVP
+- 株式会社Timers 2017年度下期 MVP
 
 ## 職務経歴
 
-### 2008/4 - : 株式会社ATGS
+### 2008/4 - : 株式会社ATGS
 
 #### システムエンジニアリングサービス(SES) (2008年〜2010年)
 
@@ -152,7 +152,7 @@ CentOS上にウェブサーバー(Apache、PHP、MySQL、PostgresSQL)を構築�
 - 勤怠管理システムの開発・運用(HTML5/CSS3/Javascript[jQuery]/PHP/MySQL/CentOS)
 - 販売管理システムの開発・運用(HTML5/CSS3/Javascript[jQuery]/PHP/MySQL/CentOS)
 
-### 215/11 - : 株式会社Timers
+### 2015/11 - : 株式会社Timers
 
 職務: iOSアプリケーションエンジニア
 
