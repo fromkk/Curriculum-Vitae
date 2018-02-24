@@ -17,7 +17,7 @@
 - Programming
   - Swift
     - Version: 1~4
-    - Mose use now.
+    - Main language now.
   - Objective-C
     - 1 year experience
     - Left about 1 year.
