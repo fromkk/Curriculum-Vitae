@@ -132,7 +132,7 @@
 
 - Development and operations ADs delivery system for feature phones with Apache, PHP, MySQL, PostgresSQL.
 
-#### Contract-based Software Development (2010-2014)
+#### Contract-based Software Development (2010-2014)
 
 - Add feature of assessment and estimate for Bike auction system(PHP, Javascript, jQuery mobile)
 - Make applications for Kids(e.g. Drawer, Maze, Hand glass)(Objective-C)
