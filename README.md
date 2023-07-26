@@ -5,10 +5,12 @@
 |key|value|
 |---|-----|
 |Name|植岡　和哉(Kazuya Ueoka))|
-|Blog|[From KK【iOSアプリ、Androidアプリ、Webサービス制作のエンジニア】](https://fromkk.me)|
+|Blog|[かっくん / iOS Developer](https://fromkk.me)|
 |Twitter|[@fromkk](https://twitter.com/fromkk)|
 |Qiita|[fromkk](http://qiita.com/fromkk)|
 |Speakerdeck|[fromkk](https://speakerdeck.com/fromkk)|
+|Docswell|[fromkk](https://www.docswell.com/user/fromkk)|
+|Instagram|[fromkk](https://instagram.com/fromkk)|
 
 ## スキル
 
@@ -16,7 +18,7 @@
 
 - プログラミング言語
   - Swift
-    - Version: 1~4
+    - Version: 1~5.8
     - 最近もっともよく使ってる
   - Objective-C
     - 少し前までメインで使ってた
@@ -35,6 +37,9 @@
   - 旅行時には困らない程度
   - Tech talkやPodcastはなんとなく言ってる事がわかる程度(多分50%ぐらいの理解度)
   - 今後もっとやっていきたい
+- カメラ
+  - SIGMA fp
+  - LUMIX S5II
 
 ### ライブラリ
 
@@ -64,7 +69,7 @@
 
 ### その他
 
-- スクラム開発経験(約2年)
+- スクラム開発経験(約5年)
 
 ## 強み
 
@@ -132,25 +137,14 @@
 
 ## 職務経歴
 
-### 2008/4 - : 株式会社ATGS
+### 2020/5 - : note株式会社
 
-#### システムエンジニアリングサービス(SES) (2008年〜2010年)
-
-- フィーチャーフォン向け広告システムの開発、運用。
-CentOS上にウェブサーバー(Apache、PHP、MySQL、PostgresSQL)を構築し、ユーザー向け広告配信システムの開発と管理者向けのPC用管理画面の開発。
-
-#### 【受託開発】(2010年〜2014年)
-
-- 大手バイクオークションサイトへの「査定・見積もり機能」の新規開発(PHP, Javascript, jQuery mobile)
-- 大手コンテンツ配信企業の子ども向け知育アプリケーションの開発(Objective-C)
-- まつ毛エクステ企業のiPadを利用した予約管理サービスの開発(Objective-C)
-- 大手不動産会社のiPadを利用した不動産検索アプリケーションのクライアント側の開発(Objective-C)
-- 通信会社子会社のiPadを利用した営業支援ツールの開発(Objective-C)
-
-#### 【社内向けツール開発】(2014年〜2015年)
-
-- 勤怠管理システムの開発・運用(HTML5/CSS3/Javascript[jQuery]/PHP/MySQL/CentOS)
-- 販売管理システムの開発・運用(HTML5/CSS3/Javascript[jQuery]/PHP/MySQL/CentOS)
+- iOSアプリのリニューアル
+- [Objective-C 0の達成](https://fromkk.me/n/nc328f5c89b3c)
+- Interface Builder 0の達成
+- [iPad対応](https://fromkk.me/n/nbd6eda515215)
+- [ウィジェットの開発](https://fromkk.me/n/n0241f16f85fe)
+- 2022/5からiOSチームのリーダーに
 
 ### 2015/11 - : 株式会社Timers
 
@@ -170,3 +164,23 @@ CentOS上にウェブサーバー(Apache、PHP、MySQL、PostgresSQL)を構築�
 - 新製品を増やすための新機能開発(Swift) (2017年9月〜2017年11月)
 - ARKit等新しい技術領域を活用した新機能開発(Swift) (2017年12月〜2018年1月)
 - UXを改善する為の部分的な機能リニューアル対応(Swift) (2018年1月〜)
+
+### 2008/4 - : 株式会社ATGS
+
+#### システムエンジニアリングサービス(SES) (2008年〜2010年)
+
+- フィーチャーフォン向け広告システムの開発、運用。
+CentOS上にウェブサーバー(Apache、PHP、MySQL、PostgresSQL)を構築し、ユーザー向け広告配信システムの開発と管理者向けのPC用管理画面の開発。
+
+#### 【受託開発】(2010年〜2014年)
+
+- 大手バイクオークションサイトへの「査定・見積もり機能」の新規開発(PHP, Javascript, jQuery mobile)
+- 大手コンテンツ配信企業の子ども向け知育アプリケーションの開発(Objective-C)
+- まつ毛エクステ企業のiPadを利用した予約管理サービスの開発(Objective-C)
+- 大手不動産会社のiPadを利用した不動産検索アプリケーションのクライアント側の開発(Objective-C)
+- 通信会社子会社のiPadを利用した営業支援ツールの開発(Objective-C)
+
+#### 【社内向けツール開発】(2014年〜2015年)
+
+- 勤怠管理システムの開発・運用(HTML5/CSS3/Javascript[jQuery]/PHP/MySQL/CentOS)
+- 販売管理システムの開発・運用(HTML5/CSS3/Javascript[jQuery]/PHP/MySQL/CentOS)
